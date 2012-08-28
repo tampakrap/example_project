@@ -16,7 +16,7 @@ INSTALLED_APPS = (
     'django.contrib.sites',
     'django.contrib.messages',
     'django.contrib.staticfiles',
-    'example_project',
+    'example_app_outside',
     'example_project.example_app_inside',
     'example_app_outside.example_app_inside2',
 )
